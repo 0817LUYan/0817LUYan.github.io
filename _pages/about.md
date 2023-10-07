@@ -21,7 +21,7 @@ Hi My name is Luyan, this is my personal webpage.
 <a herf="https://www.youtube.com/watch?v=fhINHPVUKPc/">Link to Qiao's Page </a>
 <a href="https://hollen0318.github.io/">Link to Hollen's Page</a>
 
-<a href="../downloads/mywifi_name.txt">This</a> is the password for Hollen's house wifi.
+<a href="https://github.com/0817LUYan/0817LUYan.github.io/blob/044ab9db38f580245588b44d6bbfa1ec0628fe02/_downloads/mywifi_name.txt">This</a> is the password for Hollen's house wifi.
 
 <a href="https://hollenz.wordpress.com/about/">This</a> Hollen's Old Pgae.
 
