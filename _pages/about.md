@@ -21,6 +21,10 @@ Hi My name is Luyan, this is my personal webpage.
 <a herf="https://www.youtube.com/watch?v=fhINHPVUKPc/">Link to Qiao's Page </a>
 <a href="https://hollen0318.github.io/">Link to Hollen's Page</a>
 
+<a href="_downloads/mywifi_name.txt">This</a> is the password for Hollen's house wifi.
+
+<a href="https://hollenz.wordpress.com/about/">This</a> Hollen's Old Pgae.
+
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
