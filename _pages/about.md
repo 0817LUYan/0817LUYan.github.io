@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi My name is Luyan, this is my personal webpage.
+Hi! I am Yan LU, an aspiring Environmental Engineer with a passion for sustainability and ecological research. Welcome to my academic portfolio..
 <a herf="https://www.youtube.com/watch?v=fhINHPVUKPc/">Link to Qiao's Page </a>
 <a href="https://hollen0318.github.io/">Link to Hollen's Page</a>
 
