@@ -30,34 +30,6 @@ My research interest includes neural machine translation and computer vision. I 
   
 - *2018.09 - 2022.06*, *Minzu University of China (MUC)*, School of Life and Environmental Sciences, Majored in Ecology. 
 
-# 📝 Publications
-
-<div class="publications-container">
-
-  <div class="publication">
-    <div class="publication-image">
-      <img src="images/500x300.png" alt="Ecosystem Services Paper Image" width="100%">
-    </div>
-    <div class="publication-text">
-      <span class="badge">Journal Article</span>
-      <a href="https://www.sciencedirect.com/science/article/pii/S2351989421001311?via%3Dihub">Ecosystem services help alleviate the intensity of dryness/wetness</a>
-      <p>Yu Peng, Lei Chen, Jialing Tian, Bing Sun, Chunqian Jiang, <strong>Yan Lu</strong>, Jiaxin Shang</p>
-    </div>
-  </div>
-
-  <div class="publication">
-    <div class="publication-image">
-      <img src="images/2#500x300.png" alt="Urban Land Use Planning Paper Image" width="100%">
-    </div>
-    <div class="publication-text">
-      <span class="badge">Journal Article</span>
-      <a href="https://www.nstl.gov.cn/paper_detail.html?id=ead267212342c645f38dd5358eb14fdc">Urban Land Use Planning Based on Eco-sensitive Assessment for Xiong’an Region</a>
-      <p>Peng Yu, Shang Jiaxin, Zhang Yang, <strong>Lu Yan</strong>, Su Yali</p>
-    </div>
-  </div>
-
-</div>
-
 
 # 📝 Publications 
 
@@ -70,7 +42,6 @@ Yu Peng, Lei Chen, Jialing Tian, Bing Sun, Chunqian Jiang, **Yan Lu**, Jiaxin Sh
 </div>
 </div>
 
-# 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/2#500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
