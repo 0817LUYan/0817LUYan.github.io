@@ -27,10 +27,41 @@ Hi! I am Yan LU, an aspiring Environmental Engineer with a passion for sustainab
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+# 📖 Educations
+- *2022.08 - 2024.05 (now)*, *Duke University*, Pratt School of Engineering, majored in Environmental Engineering. 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.08 - 2022.07*, *Vermont Law and Graduate School*, Majored in Environmental Mission Scholar.
+  
+- *2018.09 - 2022.06*, *Minzu University of China (MUC)*, School of Life and Environmental Sciences, Majored in Ecology. 
+
+# 📝 Publications
+
+<div class="publications-container">
+
+  <div class="publication">
+    <div class="publication-image">
+      <img src="images/500x300.png" alt="Ecosystem Services Paper Image" width="100%">
+    </div>
+    <div class="publication-text">
+      <span class="badge">Journal Article</span>
+      <a href="https://www.sciencedirect.com/science/article/pii/S2351989421001311?via%3Dihub">Ecosystem services help alleviate the intensity of dryness/wetness</a>
+      <p>Yu Peng, Lei Chen, Jialing Tian, Bing Sun, Chunqian Jiang, <strong>Yan Lu</strong>, Jiaxin Shang</p>
+    </div>
+  </div>
+
+  <div class="publication">
+    <div class="publication-image">
+      <img src="images/2#500x300.png" alt="Urban Land Use Planning Paper Image" width="100%">
+    </div>
+    <div class="publication-text">
+      <span class="badge">Journal Article</span>
+      <a href="https://www.nstl.gov.cn/paper_detail.html?id=ead267212342c645f38dd5358eb14fdc">Urban Land Use Planning Based on Eco-sensitive Assessment for Xiong’an Region</a>
+      <p>Peng Yu, Shang Jiaxin, Zhang Yang, <strong>Lu Yan</strong>, Su Yali</p>
+    </div>
+  </div>
+
+</div>
+
 
 # 📝 Publications 
 
@@ -61,12 +92,6 @@ Peng Yu, Shang Jiaxin, Zhang Yang, **Lu Yan**, Su Yali
 - *2021.6* Title of Holistically Developed Student at MUC, 2021.
 - *2021.5* First Prizes in various biology and environmental knowledge competitions.
   
-# 📖 Educations
-- *2022.08 - 2024.05 (now)*, *Duke University*, Pratt School of Engineering, majored in Environmental Engineering. 
-
-- *2021.08 - 2022.07*, *Vermont Law and Graduate School*, Majored in Environmental Mission Scholar.
-  
-- *2018.09 - 2022.06*, *Minzu University of China (MUC)*, School of Life and Environmental Sciences, Majored in Ecology. 
   
 #  Presentations of Me
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
