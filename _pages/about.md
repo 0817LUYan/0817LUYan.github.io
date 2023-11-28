@@ -49,13 +49,18 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2022.8* Environmental Engineering Graduate Scholarship at Duke University, 2022.
+- *2021.9* MUC Specialty Scholarship, 2021.
+- *2021.6* Title of Holistically Developed Student at MUC, 2021.
+- *2021.5* First Prizes in various biology and environmental knowledge competitions.
+  
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.08 - 2024.05 (now)*, *Duke University*, Pratt School of Engineering, majored in Environmental Engineering. 
 
+- *2021.08 - 2022.07*, *Vermont Law and Graduate School*, Majored in Environmental Mission Scholar.
+  
+- *2018.09 - 2022.06*, *Minzu University of China (MUC)*, School of Life and Environmental Sciences, Majored in Ecology. 
+  
 #  Presentations of Me
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
