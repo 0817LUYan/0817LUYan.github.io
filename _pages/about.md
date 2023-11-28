@@ -17,13 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👩🏻 About Me
 Hi! I am Yan LU, an aspiring Environmental Engineer with a passion for sustainability and ecological research. Welcome to my academic portfolio..
-<a herf="https://www.youtube.com/watch?v=fhINHPVUKPc/">Link to Qiao's Page </a>
-<a href="https://hollen0318.github.io/">Link to Hollen's Page</a>
 
-<a href="https://github.com/0817LUYan/0817LUYan.github.io/blob/044ab9db38f580245588b44d6bbfa1ec0628fe02/_downloads/mywifi_name.txt">This</a> is the password for Hollen's house wifi.
-
-<a href="https://hollenz.wordpress.com/about/">This</a> Hollen's Old Pgae.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -72,6 +68,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 Yu Peng, Lei Chen, Jialing Tian, Bing Sun, Chunqian Jiang, **Yan Lu**, Jiaxin Shang
 
+# 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/2#500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
