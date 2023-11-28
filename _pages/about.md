@@ -18,10 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👩🏻 About Me
-Hi! I am Yan LU, an aspiring Environmental Engineer with a passion for sustainability and ecological research. Welcome to my academic portfolio..
+Hi! I am Yan LU, an aspiring Environmental Engineer with a passion for urban design and climate justice. Welcome to my academic portfolio, here you'll find details about my education, research experience, publications, and more.
 
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📖 Educations
 - *2022.08 - 2024.05 (now)*, *Duke University*, Pratt School of Engineering, majored in Environmental Engineering. 
@@ -52,16 +50,35 @@ Peng Yu, Shang Jiaxin, Zhang Yang, **Lu Yan**, Su Yali
 </div>
 
 
+# 🔬 Research Experience
+
+- Prediction of World Happiness on Carbon Emission and Energy Consumption
+- [Quantifying Wetland Carbon Emissions in the Southeastern US](https://bassconnections.duke.edu/project-teams/quantifying-wetland-carbon-emissions-southeastern-united-states-2023-2024)
+- [Assessing Climate Change Risk of Rural Coastal Plain Communities](https://bassconnections.duke.edu/project-teams/assessing-climate-change-risk-rural-coastal-plain-communities-2023-2024)
+- Estimate Surface Air Temperature of New Mexico State
+- [Urban Land Use Planning for Xiong’an Region](https://www.nstl.gov.cn/paper_detail.html?id=ead267212342c645f38dd5358eb14fdc)
+
 # 🎖 Honors and Awards
-- *2022.8* Environmental Engineering Graduate Scholarship at Duke University, 2022.
-- *2021.9* MUC Specialty Scholarship, 2021.
-- *2021.6* Title of Holistically Developed Student at MUC, 2021.
-- *2021.5* First Prizes in various biology and environmental knowledge competitions.
+
+- *2022.09* Environmental Engineering Graduate Scholarship at Duke University
+- *2021.10* MUC Specialty Scholarship
+- *2021.09* Title of Holistically Developed Student at MUC
+- *2021.09* First Prizes in various biology and environmental knowledge competitions
+- *2021.09* First Prize of the 7th Beijing University Student Biology Experimental Design Competition
+- *2021.09* First Prize of the 7th Beijing University Student Biology Experimental Design Competition
+- *2020.09* First Prize of the 6th Beijing University Student Biology Knowledge Competition
+- *2020.05* First Prize of the 4th National Undergraduate Environmental Knowledge Competition
+
+
+# 🧩 Extracurricular Activities
+
+- *2023* Participant in AES Innovation Competition on Biogas Powered Microgrid.
+- *2021-2022* Environmental law studies and public interest litigation with Vermont Law School.
+- *2021-2022* Worker at CECA promoting environmental public participation.
+- *2021* UNDP Regional Dialogue on Youth Empowerment in Climate Actions, 2021.
+- *2020* UN Online Volunteer for fundraising in Uganda.
   
-  
-#  Presentations of Me
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2021.09 - 2022.05*, [Cross-border Environment Concern Association(CECA)]([https://github.com/](https://www.facebook.com/cecango/)https://www.facebook.com/cecango/), China.
