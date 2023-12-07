@@ -72,11 +72,11 @@ Peng Yu, Shang Jiaxin, Zhang Yang, **Lu Yan**, Su Yali
 
 # 🧩 Extracurricular Activities
 
-- *2023* Participant in AES Innovation Competition on Biogas Powered Microgrid.
-- *2021-2022* Environmental law studies and public interest litigation with Vermont Law School.
-- *2021-2022* Worker at CECA promoting environmental public participation.
-- *2021* UNDP Regional Dialogue on Youth Empowerment in Climate Actions, 2021.
-- *2020* UN Online Volunteer for fundraising in Uganda.
+- *2023* Participant in [AES Innovation Competition on Biogas Powered Microgrid](https://docs.google.com/presentation/d/17xq_nLH67kpiabEHo6F7ExdlAqjbxa2u/edit?usp=sharing&ouid=115410550122389039030&rtpof=true&sd=true)
+- *2021-2022* Environmental Law Studies and [Environmental Mission Scholars Program](https://www.vermontlaw.edu/academics/centers-and-programs/environmental-law-center/people/mission-scholars-china) with Vermont Law School
+- *2021-2022* Worker at CECA promoting environmental public participation
+- *2021* [UNDP Regional Dialogue on Youth Empowerment in Climate Actions](https://www.yecap-ap.org/yecapregionaldialogue)
+- *2020* UN Online Volunteer for fundraising in Uganda
   
 
 # 💻 Internships
@@ -85,5 +85,52 @@ Peng Yu, Shang Jiaxin, Zhang Yang, **Lu Yan**, Su Yali
 
 
 # 👨‍👩‍👧 My Family
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <div class="family-container">
+       <div class="family-member">
+          <img src="path/to/image1.jpg" alt="Name1">
+          <p class="My Dad">Name1</p>
+          <p class="member-description">Description1</p>
+      </div>
+      <div class="family-member">
+          <img src="path/to/image2.jpg" alt="Name2">
+          <p class="My Mom">Name2</p>
+          <p class="member-description">Description2</p>
+      </div>
+      <!-- Add more family members here -->
+  </div>
+
+.family-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.family-member {
+    border: 2px solid #cccccc;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+}
+
+.family-member img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.member-name {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333333;
+}
+
+.member-description {
+    font-size: 14px;
+    color: #666666;
+}
 
 
