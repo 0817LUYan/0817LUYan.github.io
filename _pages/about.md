@@ -31,7 +31,7 @@ Hi! I am Yan LU, an aspiring Environmental Engineer with a passion for urban des
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ecosystem services help alleviate the intensity of dryness/wetness](https://www.sciencedirect.com/science/article/pii/S2351989421001311?via%3Dihub)
@@ -40,7 +40,7 @@ Yu Peng, Lei Chen, Jialing Tian, Bing Sun, Chunqian Jiang, **Yan Lu**, Jiaxin Sh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/2#500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/urbanpaper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Urban Land Use Planning Based on Eco-sensitive Assessment for Xiong’an Region](https://www.nstl.gov.cn/paper_detail.html?id=ead267212342c645f38dd5358eb14fdc)
@@ -82,3 +82,8 @@ Peng Yu, Shang Jiaxin, Zhang Yang, **Lu Yan**, Su Yali
 # 💻 Internships
 
 - *2021.09 - 2022.05*, [Cross-border Environment Concern Association(CECA)]([https://github.com/](https://www.facebook.com/cecango/)https://www.facebook.com/cecango/), China.
+
+
+# 👨‍👩‍👧 My Family
+
+
