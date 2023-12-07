@@ -7,9 +7,8 @@
 
 # Site Settings
 title                    : "Yan Lu, Duke University"
-description              : "A dancer, pianioist, princess of ...."
+description              : "A environmental data science analyst, dancer, pianioist, doge lover"
 repository               : "0817LUYan/0817LUYan.github.io"
-google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -24,7 +23,7 @@ author:
   name             : "Yan Lu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Duke University"
-  location         : "Beijing, China"
+  location         : "Durham, North Carolina"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
