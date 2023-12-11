@@ -83,51 +83,6 @@ Peng Yu, Shang Jiaxin, Zhang Yang, **Lu Yan**, Su Yali
 
 - *2021.09 - 2022.05*, [Cross-border Environment Concern Association(CECA)]([https://github.com/](https://www.facebook.com/cecango/)https://www.facebook.com/cecango/), China.
 
-
-# 👨‍👩‍👧 My Family
-  <link rel="stylesheet" type="text/css" href="style.css">
-  <div class="family-container">
-       <div class="family-member">
-          <img src="path/to/image1.jpg" alt="Name1">
-          <p class="My Dad">Name1</p>
-          <p class="member-description">Description1</p>
-      </div>
-      <div class="family-member">
-          <img src="path/to/image2.jpg" alt="Name2">
-          <p class="My Mom">Name2</p>
-          <p class="member-description">Description2</p>
-      </div>
-      <!-- Add more family members here -->
-  </div>
-
-.family-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    padding: 20px;
-}
-
-.family-member {
-    border: 2px solid #cccccc;
-    border-radius: 10px;
-    padding: 10px;
-    text-align: center;
-    width: 200px;
-}
-
-.family-member img {
-    width: 100%;
-    height: auto;
-    border-radius: 5px;
-}
-
-.member-name {
-    font-size: 18px;
-    font-weight: bold;
-    color: #333333;
-}
-
 .member-description {
     font-size: 14px;
     color: #666666;
