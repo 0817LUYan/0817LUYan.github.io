@@ -83,9 +83,3 @@ Peng Yu, Shang Jiaxin, Zhang Yang, **Lu Yan**, Su Yali
 
 - *2021.09 - 2022.05*, [Cross-border Environment Concern Association(CECA)]([https://github.com/](https://www.facebook.com/cecango/)https://www.facebook.com/cecango/), China.
 
-.member-description {
-    font-size: 14px;
-    color: #666666;
-}
-
-
